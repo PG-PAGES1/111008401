@@ -1,0 +1,34 @@
+
+liantiao.png
+size: 604,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sl1
+  rotate: false
+  xy: 1, 1
+  size: 298, 179
+  orig: 440, 269
+  offset: 71, 45
+  index: -1
+sl2
+  rotate: false
+  xy: 1, 182
+  size: 300, 176
+  orig: 440, 264
+  offset: 70, 44
+  index: -1
+xuanzhuananniukuang_unpack/sb_button_01
+  rotate: false
+  xy: 301, 1
+  size: 298, 179
+  orig: 298, 179
+  offset: 0, 0
+  index: -1
+xuanzhuananniukuang_unpack/sb_button_02
+  rotate: false
+  xy: 303, 182
+  size: 300, 176
+  orig: 300, 176
+  offset: 0, 0
+  index: -1

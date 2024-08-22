@@ -1,0 +1,321 @@
+
+gzjs.png
+size: 1640,1640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gunzhoutexiao_unpack/main_ambt_vfx_a_screen
+  rotate: false
+  xy: 2, 808
+  size: 540, 830
+  orig: 540, 830
+  offset: 0, 0
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_00
+  rotate: false
+  xy: 786, 352
+  size: 76, 416
+  orig: 240, 480
+  offset: 72, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_01
+  rotate: false
+  xy: 864, 352
+  size: 76, 416
+  orig: 240, 480
+  offset: 72, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_02
+  rotate: false
+  xy: 942, 352
+  size: 76, 416
+  orig: 240, 480
+  offset: 72, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_03
+  rotate: false
+  xy: 706, 352
+  size: 78, 416
+  orig: 240, 480
+  offset: 70, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_04
+  rotate: false
+  xy: 538, 352
+  size: 82, 416
+  orig: 240, 480
+  offset: 66, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_05
+  rotate: false
+  xy: 622, 352
+  size: 82, 416
+  orig: 240, 480
+  offset: 66, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_06
+  rotate: false
+  xy: 1020, 352
+  size: 76, 416
+  orig: 240, 480
+  offset: 72, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_07
+  rotate: false
+  xy: 1098, 352
+  size: 76, 416
+  orig: 240, 480
+  offset: 72, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_08
+  rotate: false
+  xy: 1330, 354
+  size: 74, 414
+  orig: 240, 480
+  offset: 74, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_09
+  rotate: true
+  xy: 470, 54
+  size: 70, 414
+  orig: 240, 480
+  offset: 78, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_10
+  rotate: true
+  xy: 886, 52
+  size: 70, 414
+  orig: 240, 480
+  offset: 77, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_11
+  rotate: false
+  xy: 1406, 354
+  size: 74, 414
+  orig: 240, 480
+  offset: 73, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_12
+  rotate: true
+  xy: 956, 276
+  size: 74, 414
+  orig: 240, 480
+  offset: 74, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_13
+  rotate: true
+  xy: 470, 202
+  size: 74, 414
+  orig: 240, 480
+  offset: 74, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_14
+  rotate: false
+  xy: 1254, 352
+  size: 74, 416
+  orig: 240, 480
+  offset: 74, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_15
+  rotate: true
+  xy: 470, 126
+  size: 74, 414
+  orig: 240, 480
+  offset: 74, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_16
+  rotate: false
+  xy: 1482, 756
+  size: 72, 414
+  orig: 240, 480
+  offset: 75, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_17
+  rotate: true
+  xy: 886, 200
+  size: 74, 414
+  orig: 240, 480
+  offset: 73, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_18
+  rotate: true
+  xy: 886, 124
+  size: 74, 414
+  orig: 240, 480
+  offset: 73, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_19
+  rotate: false
+  xy: 1482, 340
+  size: 72, 414
+  orig: 240, 480
+  offset: 75, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_20
+  rotate: true
+  xy: 2, 2
+  size: 68, 414
+  orig: 240, 480
+  offset: 80, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_21
+  rotate: false
+  xy: 1556, 756
+  size: 72, 414
+  orig: 240, 480
+  offset: 76, 66
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_22
+  rotate: true
+  xy: 538, 278
+  size: 72, 416
+  orig: 240, 480
+  offset: 76, 64
+  index: -1
+images/jaisutiqitexiao_unpack/fspin_vfx_b_screen_23
+  rotate: false
+  xy: 1176, 352
+  size: 76, 416
+  orig: 240, 480
+  offset: 72, 64
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_00
+  rotate: false
+  xy: 2, 340
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_01
+  rotate: false
+  xy: 544, 1172
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_02
+  rotate: false
+  xy: 136, 340
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_03
+  rotate: false
+  xy: 678, 1172
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_04
+  rotate: false
+  xy: 270, 340
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_05
+  rotate: false
+  xy: 812, 1172
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_06
+  rotate: false
+  xy: 404, 340
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_07
+  rotate: true
+  xy: 2, 206
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_08
+  rotate: false
+  xy: 946, 1172
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_09
+  rotate: true
+  xy: 544, 1038
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_10
+  rotate: true
+  xy: 2, 72
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_11
+  rotate: false
+  xy: 1080, 1172
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_12
+  rotate: true
+  xy: 544, 904
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_13
+  rotate: false
+  xy: 1214, 1172
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_14
+  rotate: false
+  xy: 1348, 1172
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_15
+  rotate: true
+  xy: 1012, 1038
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_16
+  rotate: false
+  xy: 1482, 1172
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_17
+  rotate: true
+  xy: 1012, 904
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_18
+  rotate: true
+  xy: 544, 770
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1
+images/jiasudongxiao_unpack/fspin_vfx_a_screen_19
+  rotate: true
+  xy: 1012, 770
+  size: 132, 466
+  orig: 240, 480
+  offset: 9, 7
+  index: -1

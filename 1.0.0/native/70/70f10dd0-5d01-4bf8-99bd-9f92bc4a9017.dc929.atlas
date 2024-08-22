@@ -1,0 +1,258 @@
+
+win.png
+size: 1571,1571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baozhajinbi_unpack/wh_vfx_j_normal_65
+  rotate: false
+  xy: 566, 658
+  size: 230, 236
+  orig: 560, 644
+  offset: 171, 199
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_66
+  rotate: false
+  xy: 566, 257
+  size: 245, 251
+  orig: 560, 644
+  offset: 161, 196
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_67
+  rotate: false
+  xy: 1290, 1029
+  size: 266, 280
+  orig: 560, 644
+  offset: 156, 174
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_68
+  rotate: false
+  xy: 1008, 965
+  size: 280, 290
+  orig: 560, 644
+  offset: 144, 171
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_69
+  rotate: false
+  xy: 881, 1257
+  size: 261, 312
+  orig: 560, 644
+  offset: 145, 157
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_70
+  rotate: false
+  xy: 2, 78
+  size: 268, 339
+  orig: 560, 644
+  offset: 138, 136
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_71
+  rotate: false
+  xy: 284, 493
+  size: 273, 302
+  orig: 560, 644
+  offset: 136, 157
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_72
+  rotate: true
+  xy: 1144, 1311
+  size: 258, 315
+  orig: 560, 644
+  offset: 138, 137
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_73
+  rotate: false
+  xy: 636, 1233
+  size: 243, 336
+  orig: 560, 644
+  offset: 155, 129
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_74
+  rotate: false
+  xy: 566, 896
+  size: 223, 321
+  orig: 560, 644
+  offset: 171, 129
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_75
+  rotate: false
+  xy: 791, 933
+  size: 215, 298
+  orig: 560, 644
+  offset: 189, 131
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_76
+  rotate: false
+  xy: 1163, 3
+  size: 177, 226
+  orig: 560, 644
+  offset: 217, 153
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_77
+  rotate: true
+  xy: 559, 510
+  size: 146, 192
+  orig: 560, 644
+  offset: 232, 167
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_78
+  rotate: true
+  xy: 1261, 458
+  size: 123, 171
+  orig: 560, 644
+  offset: 242, 171
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_79
+  rotate: false
+  xy: 881, 1237
+  size: 24, 18
+  orig: 560, 644
+  offset: 327, 304
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_80
+  rotate: false
+  xy: 636, 1230
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/baozhajinbi_unpack/wh_vfx_j_normal_81
+  rotate: false
+  xy: 636, 1230
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_00
+  rotate: true
+  xy: 1461, 1452
+  size: 117, 93
+  orig: 275, 275
+  offset: 77, 94
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_01
+  rotate: false
+  xy: 1263, 327
+  size: 163, 129
+  orig: 275, 275
+  offset: 52, 76
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_02
+  rotate: true
+  xy: 994, 14
+  size: 199, 167
+  orig: 275, 275
+  offset: 32, 54
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_03
+  rotate: false
+  xy: 1046, 231
+  size: 215, 185
+  orig: 275, 275
+  offset: 23, 47
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_04
+  rotate: true
+  xy: 1362, 806
+  size: 221, 201
+  orig: 275, 275
+  offset: 20, 34
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_05
+  rotate: true
+  xy: 1362, 583
+  size: 221, 203
+  orig: 275, 275
+  offset: 20, 34
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_06
+  rotate: false
+  xy: 813, 215
+  size: 231, 215
+  orig: 275, 275
+  offset: 13, 25
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_07
+  rotate: false
+  xy: 813, 432
+  size: 231, 217
+  orig: 275, 275
+  offset: 14, 19
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_08
+  rotate: true
+  xy: 1046, 418
+  size: 231, 213
+  orig: 275, 275
+  offset: 14, 19
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_09
+  rotate: false
+  xy: 272, 26
+  size: 253, 253
+  orig: 275, 275
+  offset: 11, 11
+  index: -1
+images/zhongjiangtexiao_unpack/wh_vfx_h_screen_10
+  rotate: false
+  xy: 527, 2
+  size: 253, 253
+  orig: 275, 275
+  offset: 11, 11
+  index: -1
+images/zhongjiangtexiaokuang_unpack/wh_vfx_a_screen
+  rotate: false
+  xy: 284, 1219
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+images/zhongjiangtexiaokuang_unpack/wh_vfx_b_screen
+  rotate: true
+  xy: 284, 281
+  size: 210, 280
+  orig: 210, 280
+  offset: 0, 0
+  index: -1
+images/zhongjiangtexiaokuang_unpack/wh_vfx_c_screen_01
+  rotate: false
+  xy: 798, 651
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/zhongjiangtexiaokuang_unpack/wh_vfx_c_screen_02
+  rotate: false
+  xy: 284, 797
+  size: 280, 420
+  orig: 280, 420
+  offset: 0, 0
+  index: -1
+images/zhongjiangtexiaokuang_unpack/wh_vfx_c_screen_03
+  rotate: false
+  xy: 2, 419
+  size: 280, 518
+  orig: 280, 518
+  offset: 0, 0
+  index: -1
+images/zhongjiangtexiaokuang_unpack/wh_vfx_c_screen_04
+  rotate: false
+  xy: 2, 939
+  size: 280, 630
+  orig: 280, 630
+  offset: 0, 0
+  index: -1
+images/zhongjiangtexiaokuang_unpack/wh_vfx_e_screen
+  rotate: false
+  xy: 782, 3
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+images/zhongjiangtexiaokuang_unpack/wh_vfx_i_screen
+  rotate: false
+  xy: 1080, 683
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1

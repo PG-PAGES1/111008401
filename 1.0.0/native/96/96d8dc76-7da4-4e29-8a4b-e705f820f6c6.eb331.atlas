@@ -1,0 +1,27 @@
+
+duobao.jpg
+size: 727,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dbdx/duobaodongxiao
+  rotate: false
+  xy: 530, 105
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+dbfx/duobaoguangxiao
+  rotate: false
+  xy: 1, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+images/yuanquan1
+  rotate: false
+  xy: 303, 76
+  size: 225, 225
+  orig: 283, 283
+  offset: 29, 25
+  index: -1

@@ -1,0 +1,160 @@
+
+bobaokuang.png
+size: 1391,1391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b/bobaokuangtexiao
+  rotate: false
+  xy: 2, 897
+  size: 756, 245
+  orig: 756, 245
+  offset: 0, 0
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_00
+  rotate: false
+  xy: 1386, 1386
+  size: 3, 3
+  orig: 480, 250
+  offset: 0, 247
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_01
+  rotate: true
+  xy: 702, 213
+  size: 332, 156
+  orig: 480, 250
+  offset: 75, 46
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_02
+  rotate: true
+  xy: 692, 547
+  size: 348, 164
+  orig: 480, 250
+  offset: 64, 42
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_03
+  rotate: false
+  xy: 340, 369
+  size: 360, 174
+  orig: 480, 250
+  offset: 63, 39
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_04
+  rotate: true
+  xy: 1190, 275
+  size: 362, 180
+  orig: 480, 250
+  offset: 63, 37
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_05
+  rotate: true
+  xy: 860, 267
+  size: 372, 182
+  orig: 480, 250
+  offset: 60, 36
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_06
+  rotate: true
+  xy: 1036, 647
+  size: 376, 180
+  orig: 480, 250
+  offset: 58, 37
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_07
+  rotate: false
+  xy: 284, 187
+  size: 380, 180
+  orig: 480, 250
+  offset: 55, 39
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_08
+  rotate: false
+  xy: 284, 11
+  size: 384, 174
+  orig: 480, 250
+  offset: 53, 41
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_09
+  rotate: true
+  xy: 858, 641
+  size: 382, 176
+  orig: 480, 250
+  offset: 52, 40
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_10
+  rotate: true
+  xy: 1218, 639
+  size: 384, 154
+  orig: 480, 250
+  offset: 51, 41
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_11
+  rotate: true
+  xy: 1044, 257
+  size: 388, 144
+  orig: 480, 250
+  offset: 50, 43
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_12
+  rotate: false
+  xy: 844, 1025
+  size: 392, 132
+  orig: 480, 250
+  offset: 50, 51
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_13
+  rotate: false
+  xy: 670, 113
+  size: 386, 98
+  orig: 480, 250
+  offset: 58, 64
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_14
+  rotate: false
+  xy: 670, 31
+  size: 358, 80
+  orig: 480, 250
+  offset: 71, 75
+  index: -1
+beishulanselzii_unpack/info_board_vfx_b_screen_15
+  rotate: false
+  xy: 1030, 43
+  size: 344, 68
+  orig: 480, 250
+  offset: 79, 80
+  index: -1
+bom/wh_vfx_f_screen
+  rotate: false
+  xy: 2, 32
+  size: 280, 350
+  orig: 280, 350
+  offset: 0, 0
+  index: -1
+bom/wh_vfx_g_screen
+  rotate: false
+  xy: 2, 384
+  size: 336, 511
+  orig: 336, 511
+  offset: 0, 0
+  index: -1
+e/erjibobaokuangdongxiao
+  rotate: false
+  xy: 844, 1159
+  size: 540, 230
+  orig: 540, 230
+  offset: 0, 0
+  index: -1
+l/lanseguang
+  rotate: false
+  xy: 2, 1144
+  size: 840, 245
+  orig: 840, 245
+  offset: 0, 0
+  index: -1
+sb_vfx_a_screen
+  rotate: false
+  xy: 340, 545
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

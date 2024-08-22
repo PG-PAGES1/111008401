@@ -1,0 +1,349 @@
+
+beishu2.png
+size: 1730,1730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_00
+  rotate: true
+  xy: 2, 53
+  size: 286, 113
+  orig: 432, 315
+  offset: 77, 53
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_01
+  rotate: false
+  xy: 537, 682
+  size: 382, 173
+  orig: 432, 315
+  offset: 24, 49
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_02
+  rotate: false
+  xy: 543, 1169
+  size: 408, 183
+  orig: 432, 315
+  offset: 11, 49
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_03
+  rotate: false
+  xy: 544, 1541
+  size: 416, 187
+  orig: 432, 315
+  offset: 7, 51
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_04
+  rotate: false
+  xy: 962, 1541
+  size: 416, 187
+  orig: 432, 315
+  offset: 7, 53
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_05
+  rotate: false
+  xy: 544, 1354
+  size: 416, 185
+  orig: 432, 315
+  offset: 7, 55
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_06
+  rotate: false
+  xy: 962, 1354
+  size: 416, 185
+  orig: 432, 315
+  offset: 7, 55
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_07
+  rotate: false
+  xy: 2, 1260
+  size: 414, 179
+  orig: 432, 315
+  offset: 7, 61
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_08
+  rotate: false
+  xy: 2, 1081
+  size: 412, 177
+  orig: 432, 315
+  offset: 9, 63
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_09
+  rotate: false
+  xy: 2, 908
+  size: 410, 171
+  orig: 432, 315
+  offset: 9, 68
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_10
+  rotate: false
+  xy: 953, 1181
+  size: 408, 171
+  orig: 432, 315
+  offset: 10, 68
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_11
+  rotate: false
+  xy: 953, 1016
+  size: 404, 163
+  orig: 432, 315
+  offset: 12, 73
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_12
+  rotate: false
+  xy: 543, 1006
+  size: 402, 161
+  orig: 432, 315
+  offset: 13, 74
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_13
+  rotate: false
+  xy: 947, 863
+  size: 398, 151
+  orig: 432, 315
+  offset: 15, 81
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_14
+  rotate: false
+  xy: 537, 857
+  size: 388, 147
+  orig: 432, 315
+  offset: 20, 85
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_15
+  rotate: false
+  xy: 927, 720
+  size: 386, 141
+  orig: 432, 315
+  offset: 22, 87
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_16
+  rotate: false
+  xy: 2, 381
+  size: 376, 135
+  orig: 432, 315
+  offset: 26, 93
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_17
+  rotate: true
+  xy: 404, 341
+  size: 372, 129
+  orig: 432, 315
+  offset: 27, 94
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_18
+  rotate: true
+  xy: 418, 1071
+  size: 368, 123
+  orig: 432, 315
+  offset: 30, 97
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_19
+  rotate: false
+  xy: 1363, 1147
+  size: 364, 121
+  orig: 432, 315
+  offset: 33, 97
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_20
+  rotate: true
+  xy: 414, 715
+  size: 354, 121
+  orig: 432, 315
+  offset: 38, 98
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_21
+  rotate: false
+  xy: 1359, 1024
+  size: 352, 121
+  orig: 432, 315
+  offset: 38, 98
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_22
+  rotate: false
+  xy: 1380, 1611
+  size: 348, 117
+  orig: 432, 315
+  offset: 40, 98
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_23
+  rotate: false
+  xy: 1380, 1496
+  size: 346, 113
+  orig: 432, 315
+  offset: 42, 98
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_24
+  rotate: false
+  xy: 1380, 1381
+  size: 344, 113
+  orig: 432, 315
+  offset: 43, 98
+  index: -1
+beishukuangtexiao_unpack/bg_intro_vfx_a_add_25
+  rotate: false
+  xy: 1380, 1270
+  size: 344, 109
+  orig: 432, 315
+  offset: 43, 98
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_00
+  rotate: false
+  xy: 117, 205
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_01
+  rotate: false
+  xy: 117, 29
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_02
+  rotate: true
+  xy: 329, 129
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_03
+  rotate: true
+  xy: 505, 129
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_04
+  rotate: true
+  xy: 535, 470
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_05
+  rotate: false
+  xy: 1315, 558
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_06
+  rotate: true
+  xy: 1527, 522
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_07
+  rotate: false
+  xy: 921, 544
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_08
+  rotate: true
+  xy: 1133, 508
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_09
+  rotate: false
+  xy: 1309, 382
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_10
+  rotate: true
+  xy: 711, 470
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_11
+  rotate: false
+  xy: 887, 368
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_12
+  rotate: true
+  xy: 681, 258
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_13
+  rotate: true
+  xy: 1099, 296
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_14
+  rotate: false
+  xy: 857, 192
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_15
+  rotate: true
+  xy: 681, 46
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_16
+  rotate: false
+  xy: 857, 16
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_17
+  rotate: true
+  xy: 1521, 310
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_18
+  rotate: false
+  xy: 1275, 206
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+beishulanguang_unpack/multi_vfx_a_screen_19
+  rotate: true
+  xy: 1069, 84
+  size: 210, 174
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+multi_vfx_b_add
+  rotate: false
+  xy: 2, 518
+  size: 400, 388
+  orig: 400, 388
+  offset: 0, 0
+  index: -1
+倍数蓝色光/beishulanseguang
+  rotate: true
+  xy: 1359, 734
+  size: 288, 306
+  orig: 288, 306
+  offset: 0, 0
+  index: -1
+倍数递增动效/beishudizengdongxiao
+  rotate: false
+  xy: 2, 1441
+  size: 540, 287
+  orig: 540, 287
+  offset: 0, 0
+  index: -1

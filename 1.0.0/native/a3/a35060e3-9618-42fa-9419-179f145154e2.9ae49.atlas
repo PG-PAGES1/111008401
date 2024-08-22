@@ -1,0 +1,111 @@
+
+xuanzhuan.jpg
+size: 1174,1054
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+auto/zidongxuanzhuananniutexiao
+  rotate: false
+  xy: 1, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+sb_button_bg_screen
+  rotate: false
+  xy: 1040, 28
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+wh_vfx_h_screen_00
+  rotate: false
+  xy: 1040, 126
+  size: 119, 95
+  orig: 275, 275
+  offset: 76, 93
+  index: -1
+wh_vfx_h_screen_01
+  rotate: true
+  xy: 907, 56
+  size: 165, 131
+  orig: 275, 275
+  offset: 51, 75
+  index: -1
+wh_vfx_h_screen_02
+  rotate: false
+  xy: 705, 231
+  size: 201, 169
+  orig: 275, 275
+  offset: 31, 53
+  index: -1
+wh_vfx_h_screen_03
+  rotate: false
+  xy: 930, 223
+  size: 217, 187
+  orig: 275, 275
+  offset: 22, 46
+  index: -1
+wh_vfx_h_screen_04
+  rotate: false
+  xy: 705, 402
+  size: 223, 203
+  orig: 275, 275
+  offset: 19, 33
+  index: -1
+wh_vfx_h_screen_05
+  rotate: false
+  xy: 932, 412
+  size: 223, 205
+  orig: 275, 275
+  offset: 19, 33
+  index: -1
+wh_vfx_h_screen_06
+  rotate: false
+  xy: 940, 836
+  size: 233, 217
+  orig: 275, 275
+  offset: 12, 24
+  index: -1
+wh_vfx_h_screen_07
+  rotate: false
+  xy: 705, 834
+  size: 233, 219
+  orig: 275, 275
+  offset: 13, 18
+  index: -1
+wh_vfx_h_screen_08
+  rotate: false
+  xy: 940, 619
+  size: 233, 215
+  orig: 275, 275
+  offset: 13, 18
+  index: -1
+xuanzhuananniutexiao_unpack/sb_vfx_a_screen
+  rotate: false
+  xy: 353, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao_unpack/sb_vfx_b_screen
+  rotate: false
+  xy: 1, 353
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao_unpack/sb_vfx_d_screen
+  rotate: false
+  xy: 705, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+yuanquan1
+  rotate: false
+  xy: 705, 607
+  size: 225, 225
+  orig: 283, 283
+  offset: 29, 25
+  index: -1

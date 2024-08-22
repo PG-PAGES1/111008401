@@ -1,0 +1,188 @@
+
+button.jpg
+size: 1981,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_flare_b
+  rotate: false
+  xy: 2, 151
+  size: 323, 323
+  orig: 323, 323
+  offset: 0, 0
+  index: -1
+click_a
+  rotate: false
+  xy: 1169, 278
+  size: 196, 196
+  orig: 200, 200
+  offset: 2, 2
+  index: -1
+click_a1
+  rotate: false
+  xy: 1320, 80
+  size: 196, 196
+  orig: 200, 200
+  offset: 2, 2
+  index: -1
+click_a2
+  rotate: false
+  xy: 1367, 278
+  size: 196, 196
+  orig: 200, 200
+  offset: 2, 2
+  index: -1
+click_aa
+  rotate: false
+  xy: 1518, 80
+  size: 196, 196
+  orig: 200, 200
+  offset: 2, 2
+  index: -1
+click_b
+  rotate: false
+  xy: 1741, 324
+  size: 150, 150
+  orig: 200, 200
+  offset: 25, 25
+  index: -1
+shuaxinguangxiao
+  rotate: false
+  xy: 327, 170
+  size: 200, 304
+  orig: 200, 304
+  offset: 0, 0
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_01
+  rotate: false
+  xy: 1130, 8
+  size: 50, 40
+  orig: 256, 256
+  offset: 105, 108
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_02
+  rotate: false
+  xy: 1320, 2
+  size: 82, 76
+  orig: 256, 256
+  offset: 87, 90
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_03
+  rotate: false
+  xy: 1854, 78
+  size: 112, 106
+  orig: 256, 256
+  offset: 71, 76
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_04
+  rotate: true
+  xy: 1716, 46
+  size: 138, 136
+  orig: 256, 256
+  offset: 56, 61
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_05
+  rotate: false
+  xy: 390, 6
+  size: 158, 162
+  orig: 256, 256
+  offset: 45, 47
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_06
+  rotate: false
+  xy: 1565, 290
+  size: 174, 184
+  orig: 256, 256
+  offset: 36, 36
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_07
+  rotate: false
+  xy: 1130, 50
+  size: 188, 204
+  orig: 256, 256
+  offset: 27, 26
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_08
+  rotate: false
+  xy: 924, 24
+  size: 204, 222
+  orig: 256, 256
+  offset: 19, 17
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_09
+  rotate: false
+  xy: 529, 238
+  size: 218, 236
+  orig: 256, 256
+  offset: 11, 8
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_10
+  rotate: true
+  xy: 749, 248
+  size: 226, 222
+  orig: 256, 256
+  offset: 7, 6
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_11
+  rotate: true
+  xy: 550, 6
+  size: 230, 226
+  orig: 256, 256
+  offset: 6, 6
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_12
+  rotate: true
+  xy: 973, 256
+  size: 218, 194
+  orig: 256, 256
+  offset: 19, 40
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_13
+  rotate: true
+  xy: 778, 22
+  size: 224, 144
+  orig: 256, 256
+  offset: 16, 39
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_14
+  rotate: false
+  xy: 2, 3
+  size: 192, 146
+  orig: 256, 256
+  offset: 13, 36
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_15
+  rotate: false
+  xy: 196, 3
+  size: 192, 146
+  orig: 256, 256
+  offset: 13, 34
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_16
+  rotate: true
+  xy: 1741, 186
+  size: 136, 146
+  orig: 256, 256
+  offset: 39, 32
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_17
+  rotate: true
+  xy: 1893, 336
+  size: 138, 86
+  orig: 256, 256
+  offset: 38, 31
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_18
+  rotate: true
+  xy: 1893, 194
+  size: 140, 84
+  orig: 256, 256
+  offset: 37, 30
+  index: -1
+tuanxiaochuheishuye/spin_vfx_b_19
+  rotate: true
+  xy: 1182, 14
+  size: 34, 80
+  orig: 256, 256
+  offset: 37, 30
+  index: -1

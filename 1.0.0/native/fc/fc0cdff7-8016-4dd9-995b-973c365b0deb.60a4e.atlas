@@ -1,0 +1,41 @@
+
+jinbi.png
+size: 1519,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bobaokuangjinbi
+  rotate: false
+  xy: 1329, 212
+  size: 189, 189
+  orig: 190, 202
+  offset: 0, 1
+  index: -1
+bobaokuangjinbi2
+  rotate: false
+  xy: 1003, 14
+  size: 195, 157
+  orig: 196, 158
+  offset: 0, 1
+  index: -1
+jinbi
+  rotate: false
+  xy: 1200, 9
+  size: 188, 162
+  orig: 190, 202
+  offset: 0, 2
+  index: -1
+qitidongxiao
+  rotate: false
+  xy: 1, 1
+  size: 1000, 400
+  orig: 1000, 400
+  offset: 0, 0
+  index: -1
+qitidongxiao2
+  rotate: false
+  xy: 1003, 173
+  size: 324, 228
+  orig: 324, 228
+  offset: 0, 0
+  index: -1
